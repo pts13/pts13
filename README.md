@@ -32,7 +32,7 @@
 ---
 
 ### 🤝 Connect With Me:
-- LinkedIn: **[https://linkedin.com/in/pratik-t-shirsath](https://www.linkedin.com/in/pratik-t-shirsath-782306354)**
+- LinkedIn: **https://www.linkedin.com/in/pratik-t-shirsath-782306354**
 - GitHub: **https://github.com/pts13**
 
 ---
